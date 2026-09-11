@@ -5,7 +5,7 @@ import sub from './sub.js';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '212644421609', // Bot number
+  phoneNumber: '201213936427', // Bot number
   prefix: [".", "/", "!"],
   fromMe: false, 
   owners: [
@@ -14,7 +14,7 @@ const client = new Client({
   // Owner 2
     { name: "👑┊𝕾𝖍𝖆𝖉𝖔𝖜┊👑", lid: "221307316789354@lid", jid: "212723106615@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "212723106615@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "Sukuna", jid: "201213936427@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
    { name: "𝕾𝖍𝖆𝖉𝖔𝖜", jid: "212723106615@s.whatsapp.net", lid: "51664513925368@lid" }
   ],
