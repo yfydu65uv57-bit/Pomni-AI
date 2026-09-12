@@ -19,7 +19,7 @@ END:VCARD`;
     contextInfo: {
       forwardingScore: 2023,
       externalAdReply: {
-        title: '𝑇𝛨𝛯 𝛩𝑊𝛮𝛯𝑅',
+        title: '⟬𝑻𝑬𝑻𝑶(<𝑬Ł>)𝑯𝒂𝑲𝒆𝑴⟭',
         body: watermark,
         sourceUrl: 'https://whatsapp.com/channel/0029Vb3UUKz3QxS3bgWmTc3x',
         thumbnailUrl: img,
