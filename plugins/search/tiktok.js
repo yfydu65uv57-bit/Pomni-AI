@@ -16,13 +16,13 @@ if (data && data.length > 0) {
                 name: "cta_copy", 
                 params: { 
                     display_text: "💟╎ My Channel", 
-                    copy_code: "https://whatsapp.com/channel/0029Vb3UUKz3QxS3bgWmTc3x" 
+                    copy_code: "https://whatsapp.com/channel/0029VbDksaWJUM2XwJkrKm35" 
                 } 
             },
         ],
         mentions: [m.sender],
         newsletter: {
-            name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+            name: '⟬𝑻𝑬𝑻𝑶(<𝑬>)𝑯𝒂𝑲𝒆𝑴⟭ 🕷️',
             jid: '120363225356834044@newsletter'
         },
     }, global.reply_status)
